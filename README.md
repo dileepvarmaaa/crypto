@@ -1,4 +1,5 @@
 # crypto
+
 Definition: Cryptography is associated with the process of converting ordinary plain text into unintelligible text and vice-versa. It is a method of storing and transmitting data in a particular form so that only those for whom it is intended can read and process it. Cryptography not only protects data from theft or alteration, but can also be used for user authentication.
 
 Description: Earlier cryptography was effectively synonymous with encryption but nowadays cryptography is mainly based on mathematical theory and computer science practice.
@@ -17,11 +18,11 @@ Cryptography is used in many applications like banking transactions cards, compu
 
 Three types of cryptographic techniques used in general.
 
-1. Symmetric-key cryptography
+1. Symmetric-key cryptography.
 
-2. Hash functions.
+2. Public-key cryptography.
 
-3. Public-key cryptography
+3. Hash functions.
 
 Symmetric-key Cryptography: Both the sender and receiver share a single key. The sender uses this key to encrypt plaintext and send the cipher text to the receiver. On the other side the receiver applies the same key to decrypt the message and recover the plain text.
 
