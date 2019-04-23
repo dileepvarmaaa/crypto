@@ -32,3 +32,6 @@ Public-Key Cryptography: This is the most revolutionary concept in the last 300-
 
 Hash Functions: No key is used in this algorithm. A fixed-length hash value is computed as per the plain text that makes it impossible for the contents of the plain text to be recovered. Hash functions are also used by many operating systems to encrypt passwords.
 
+Excellent work till now continue reading!
+
+TO KNOW ABOUT XORING :- https://rdvarma16.wordpress.com/2019/04/23/how-to-xor-two-strings-python/
