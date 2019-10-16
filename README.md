@@ -34,4 +34,4 @@ Hash Functions: No key is used in this algorithm. A fixed-length hash value is c
 
 Excellent work till now continue reading!
 
-TO KNOW ABOUT XORING :- https://rdvarma16.wordpress.com/2019/04/23/how-to-xor-two-strings-python/
+TO KNOW ABOUT XORING :-ping me dileepvarmaa@gmail.com  
