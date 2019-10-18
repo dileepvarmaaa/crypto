@@ -35,3 +35,5 @@ Hash Functions: No key is used in this algorithm. A fixed-length hash value is c
 Excellent work till now continue reading!
 
 TO KNOW ABOUT XORING :-ping me dileepvarmaa@gmail.com  
+
+please focus and understand
